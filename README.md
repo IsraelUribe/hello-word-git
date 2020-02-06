@@ -28,3 +28,9 @@ formato **bold o strong** primer forma es igual con 2 giones bajos
 - esto es una linea desordenada
 - esto es una linea desordenada
 - esto es una linea desordenada
+
+# Links
+<a href>"http://www.google.com",Esto es un link</a>
+- [esto es un link portable][https://www.google.com]
+- [esto es un link al index][index.html]
+
