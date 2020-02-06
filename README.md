@@ -20,3 +20,11 @@ Underline 2
 formato **bold o strong** primer forma es igual con 2 giones bajos
 
 -formto ~~tachado~~, forma normal
+
+# Listas
+1. esto es una lista ordenada
+2. esto es una lista ordenada
+3. esto es una lista ordenada
+- esto es una linea desordenada
+- esto es una linea desordenada
+- esto es una linea desordenada
